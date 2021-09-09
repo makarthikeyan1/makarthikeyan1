@@ -2,7 +2,7 @@
 - 👀 I’m interested in data in-use security
 - 🌱 I’m co-founder and VP at Titaniam Inc.,
 - 💞️ I’m looking to collaborate on opensearch and elasticsearch
-- 📫 How to reach me karthik @ titaniamlabs.com
+- 📫 How to reach me karthik @ titaniam.io
 
 <!---
 makarthikeyan1/makarthikeyan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
